@@ -1,4 +1,4 @@
-# Welcome to Form Password Generator
+# Welcome to Password Generator
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT 
